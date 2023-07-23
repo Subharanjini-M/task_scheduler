@@ -1,0 +1,44 @@
+h1{
+ text-decoration-color: #572304;
+
+}
+#body{
+  text-align: center;
+  background-image: url(study_image.jpg!d);
+  background-size:cover;
+  background-repeat: :no-repeat;
+  background-position:center;
+  textarea::content
+}
+
+#table1{
+ 
+  text-align: center;
+  margin-left: 32%;
+  border-spacing:30px;
+  text-size-adjust: 40px;
+  border: 1px solid #572304; 
+  align-items: center;
+}
+
+thead{
+    text-justify: distribute-all-lines;
+}
+
+#add_button{
+   color: #572304;
+   margin-left: 22%;
+   
+}
+
+#remove_button{
+    color: #572304;
+    margin-left: 20%;
+    
+ }
+
+ #success_button{
+    color: #572304;
+    margin-left: 12%;
+    
+ }
